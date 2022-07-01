@@ -48,18 +48,18 @@ global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
+global.botname = "Fahzz" //ur bot name
 global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "Fahzz"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
+global.ownertag = ['Fahzz'] //ur owner tag
 global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
+global.watermark = "Fahzz" //ur watermark
 global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
+global.linkz1 = "https://chat.whatsapp.com/KG1QdHJ3qkB5QlFW0KeNNJ"
 global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
 
 //Bot theme media
