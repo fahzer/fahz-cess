@@ -49,7 +49,7 @@ global.location = "Indonesia, Kalimantan Selatan, Banjarmasin" //ur location
 
 //bot bombdy
 global.botname = "Fahzz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.websitex = "https://youtube.com/channel/UC1Xhscb6reAQVExWixAHQAA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
 global.author = "Fahzz"
