@@ -1544,7 +1544,7 @@ const jumlahUser = pendaftar.length
 const menulist = `┌─❖
 │「 Hallo 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Bagaimana Kabarmu? 😄
+┌┤✑  Bagaimana Kabarmu? 
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
